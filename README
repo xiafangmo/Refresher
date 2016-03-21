@@ -1,0 +1,4 @@
+This project is written in Swift 2.0.
+
+The app has a web view that reloads every 10 seconds. A button can pause and resume the refresh.
+
